@@ -1,0 +1,18 @@
+scheda_progetto: sistema di backup del lavoro dello studente entro al sistema esami UniVR
+autore: Romeo Rizzi
+opened: 2018-10-08
+tipologia: do it once (hopefully!)
+punti_preventivati: 2
+aree_di_interesse: ateneo, esamiUniVR
+restrizioni_su_chi_titolato_a_condurlo: nessuna
+
+descrizione_progetto:
+Alcuni corsi di ateneo si avvalgono di un sistema esami UniVR che il docente parametrizza dal portale
+https://esami.univr.it/
+e cui gli studenti accedono con account "esame" e pwd "esame" da schermata blu iniziale delle macchine in uno dei laboratori di ateneo.
+A volte succede che una macchina si impalli durante l'esame e allora lo studente perde tutto quanto realizzato (non è piacevole per nessuno).
+Un paio di anni or sono avevamo richiesto che il sistema esami UniVR consentisse di accedere a siti da una whitelist impostata e curata dal docente, il che, per il corso di Algoritmi della magistrale, ci ha consentito l'impiego del CMS per una valutazione contestuale con feedback immediato sul lavoro dello studente durante l'esame. Col senno di poi, questo ha anche consentito che in certe situazioni lo studente possa recuperare il suo lavoro (quantomeno quanto sottomesso al CMS), una bella novità che suggerisce l'opportunità di un servizio da curare meglio e valido per tutti i corsi.
+E' ora chiaro che esiste questa possibilità, e che essa, in certe modalità, può essere realizzata senza arricchire il servizio erogato dal server esami UniVR.
+Si avvede pertanto l'opportunità immediata di progettare e realizzare un sistema per un servizio di backup gestito dallo studente che lavori dentro l'account esame UniVR. Il recupero deve essere consentito solo allo studente affiancato dal docente (in questo modo non pesiamo sugli erogatori del servizio esami UniVR).
+Nota: a volte la macchina si impalla come connessione al portale esami ma rimane possibile operare al di fuori di esso.
+

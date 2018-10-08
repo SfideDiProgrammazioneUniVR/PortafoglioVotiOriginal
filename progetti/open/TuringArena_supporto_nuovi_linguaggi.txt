@@ -1,0 +1,25 @@
+scheda_progetto: supporto di nuovi linguaggi di programmazione entro TuringArenaautore: Romeo Rizzi
+opened: 2018-10-08
+tipologia: evergreen
+punti_preventivati: almeno 4 punti per supporto di linguaggio lato problem_solver, almeno 8 punti per supporto di linguaggio lato problem_poser.
+aree_di_interesse: TuringArena, corsiAlgoritmi, corsiProgrammazione, didattica, ramoArena, ateneo
+restrizioni_su_chi_titolato_a_condurlo: nessuna
+
+descrizione_progetto:
+La nostra grande scommessa attuale è il sistema e progetto opensource TuringArena:
+https://github.com/turingarena/turingarena
+https://turingarena.readthedocs.io/en/develop/
+
+Una delle caratteristiche di questo sistema, caratteristica unica nel caso di problemi dove la valutazione richieda un'interazione tra codice sottomesso e codice valutatore, è l'indipendenza dal linguaggio di programmazione.
+Tale indipendenza si ottiene facendo confrontare i codici da valutare (collaborativi od antagonisti, più tipicamente e tradizionalmente uno solo: la soluzione ad un problema algoritmico), ed il codice di valutazione, entro una sandbox. I codici sviluppati dagli attori (il valutatore del problem-poser ed il solutore od i bot del problem-solver o dei players) vengono embeddati in codici di libreria che consentono a detti codici di comunicare tra loro (ad ogni ogni passaggio, quale ad esempio la chiamata di una funzione) per serializzazione dei dati tramite file (standard POSIX). Questi wrapper d'uso compilati insieme ai codici di pura soluzione e valutazione prodotti dai problem-solver sono a loro volta generati automaticamente a partire dal file interfaces.txt dove il problem-poser ripone (utilizzando un linguaggio ad-hoc, semplice e povero) una descrizione dei protocolli di comunicazione coinvolti nell'estricazione del suo gioco didattico a due o più giocatori.
+
+Attualmente in TuringArena abbiamo il supporto per c/c++ e per python sia sul lato problem-solver (ossia la generazione dei wrapper che si legano alla soluzione prodotta dal problem-solver od ai bot/gladiators prodotti dai players)
+che sul lato problem-maker.
+
+E' così confermato che virtualmente TuringArena supporta ogni linguaggio, un problema scritto oggi in pascal da un'anziano docente di scuola superiore che nel suo contesto non ha alcuna valida ragione di apprendere un nuovo linguaggio, può valutare soluzioni scritte in qualsiasi altro linguaggio di programmazione, anche del futuro. Ovviamente, questa importante potenzialità trova attuazione quando qualcuno sviluppa il supporto per un particolare linguaggio.
+Il supporto ad un liguaggio può essere curato, in modo del tutto indipendente, sul lato problem-solver o sul lato problem-poser. Il primo tipo di supporto è più facile da sviluppare, e siamo pronti a delegare, sul secondo si possono affacciare, a seconda del linguaggio, delle questioni più delicate e/o che richiedono il lavoro venga fatto con la dovuta sensibilità.
+Questo giustifica la differenza sui punti messi in palio.
+
+In particolare, saremmo molto interessati ora allo sviluppo dei supporti per sperimentare un primo linguaggio funzionale. Pensavamo in particolare ad ocaml, sia in quanto linguaggio mutiparadigma che essendomi stato richiesto in particolare da dei colleghi francesi.
+
+Ad ogni modo, ogni linguaggio che vogliate aggiungere vi assicura quantomeno i punti indicati nel preambolo della scheda.

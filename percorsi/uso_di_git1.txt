@@ -1,0 +1,10 @@
+scheda_percorso: impratichirsi nell'uso di git per il backup e la pubblicazione di progetti
+autore: Romeo Rizzi
+opened: 2018-10-08
+punti_preventivati: 1 punto.
+a_cosa_serve: per poter mantenere un progetto entro un repository, usufruendo del back-up e della time machine, e delle possibilià offerte per la pubblicazione in cloud
+restrizioni_su_chi_titolato_a_condurlo: chi non abbia alcuna competenza pregresse sull'uso di git, come rilevate da griglia di ingresso
+
+come_acquisire_le_competenze:
+come_dimostrare_di_avere_acquisito_le_competenze:
+come_richiedere_riconoscimento_percorso_nel_tuo_portafoglio_voti:

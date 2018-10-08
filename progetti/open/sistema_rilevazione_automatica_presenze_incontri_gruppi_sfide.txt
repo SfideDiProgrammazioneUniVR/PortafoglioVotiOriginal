@@ -1,0 +1,14 @@
+scheda_progetto: sistema per la rilevazione automatica (smartphone) dei tempi di presenza agli spazi di Sfide
+autore: Romeo Rizzi
+opened: 2018-10-08
+tipologia: do it once (hopefully!)
+punti_preventivati: progetto grosso da suddividere in sottoprogetti. Importante riutilizzare quanto possa già esistere. Almeno 2 punti per l'analisi di fattibilità e per la scomposizione funzionale in sottoprogetti.
+aree_di_interesse: spazioSfide, ramoArena, ramoBasecamp, ateneo
+restrizioni_su_chi_titolato_a_condurlo: nessuna
+
+descrizione_progetto:
+Chi organizza un incontro per lo spazio Sfide stampa un barcode su un foglio che appende sul lato interno della porta dell'aula utilizzata, e dà avvio all'incontro. Poi chiuderà l'incontro annotando l'intervallo di presenza degli studenti che per un motivo o per l'altro non hanno potuto avvalersi del sistema automatico.
+L'idea è che i partecipanti dotati di smartphone scannerizzino il barcode sia in ingresso che in uscita, perchè il tempo trascorso in aula venga a sommarsi al tempo contabilizzato di loro frequenza totale ad attività in aula per gli spazi di Sfide.
+Perchè l'operazione possa venire completata in modalità automatica lo studente deve passare lo smartphone sia in ingresso che in uscita, altrimenti l'intervallo non potrà essere conteggiato. Da valutare se la chiusura al momento di sciogliere l'incontro possa essere eventualmente effettuata (per tutti coloro che ancora virtualmente=fisicamente nell'aula) dall'organizzatore dell'incontro, che comunque dovrà chiudere la finestra. 
+Si confida nella correttezza degli studenti oltre che nel fatto che le credenziali (matricola e nominativo) di chi è entrato nel sistema è in ogni momento visualizzabile (quantomeno dall'organizzatore dell'incontro e da ogni admin, ma direi forse anche pubblicamente).
+

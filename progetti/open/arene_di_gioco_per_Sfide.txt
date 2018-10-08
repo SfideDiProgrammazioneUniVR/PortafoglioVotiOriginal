@@ -1,0 +1,31 @@
+scheda_progetto: ideazione, progetto, sviluppo e cura di arene di gioco ad uso dello spazio/corso di Sfide (specie ramo Arena)
+autore: Romeo Rizzi
+opened: 2018-10-08
+tipologia: evergreen, molto attuale
+punti_preventivati: almeno 5 punti per partire. Stampino di progetti che è prevedibile vadano a scomporsi in ed ad attivare altri progetti in cascata
+aree_di_interesse: spazioSfide, ramoArena, TuringArena, didattica, coderDojo
+restrizioni_su_chi_titolato_a_condurlo: nessuna
+
+descrizione_progetto:
+La nostra grande scommessa attuale è il sistema e progetto opensource TuringArena:
+https://github.com/turingarena/turingarena
+https://turingarena.readthedocs.io/en/develop/
+
+A parte i problemi algoritmici tradizionali che impiego ad esempio nei miei corsi o che compongono i percorsi delle olimpiadi di informatica, emtro TuringArena diviene inoltre possibile proporre delle Arene di gioco.
+Entro un'Arena, i players (coders più o meno in erba) sono chiamati a sottomettere i loro bots/gladiators che si confronteranno in modi competitivi/collaborativi potenzialmente ricchi, come previsto da chi ha progettato il gioco, ossia  l'Arena stessa.
+
+Vuoi essere tu ad ideare/progettare/realizzare (magari anche insieme ad altri) una nuova proposta di gioco od Arena?
+
+Esempi di possibili arene:
+carta-forbice-sasso (con tutorial per un primo prototipo collocato da Massimo tra gli esempi di TuringArena)
+ruba-mazzetto (realizzatomi da studenti del Marconi in percorso ASL)
+battaglia navale (realizzatomi da studenti del Marconi in percorso ASL, si potrebbe pensare a progetti di proseguio per valorizzazione piena)
+forza 4 (realizzatomi da studenti del Marconi in percorso ASL)
+briscola,
+scopone scientifico,
+risiko
+tornei di Texas Hold'Em
+idee/proposte vostre per un gioco vecchio o nuovo sarebbero ovviamente la miglior figata
+
+L'intento del corso "Sfide di Programmazione" è di offrire uno spazio autogestito dagli studenti ad uso degli studenti, dove essi possano crescere e sperimentare una capacità di progettare, confrontandosi sia con la programmazione che con le sfide del problem solving. 
+L'idea del ramo Arena dello spazio Sfide vuole essere quella di offrire uno spazio inclusivo. Un possibile modo che pernsavo per portare avanti questa linea è che i ragazzi più forti (ad esempio di triennale) possano realizzare Arene, mentre alle matricole (magari di matematica) si chiede di realizzare dei bot per incominciare a programmare con sugo.

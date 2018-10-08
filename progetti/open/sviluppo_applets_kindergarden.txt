@@ -1,0 +1,16 @@
+scheda_progetto: sviluppo applet kindergarden
+autore: Romeo Rizzi
+opened: 2018-10-08
+tipologia: evergreen
+punti_preventivati: almeno 2 punti, dipende dalla complessità dell'aplet proposto/richiesto.
+aree_di_interesse: TuringArena, CMS, corsiAlgoritmi, corsiProgrammazione, didattica, ramoArena, KidsUniversity, TeachersLab, ateneo
+restrizioni_su_chi_titolato_a_condurlo: nessuna
+
+descrizione_progetto:
+Quando propongo un problema sotto CMS o TuringArena avrei talvolta piacere di fornire agli studenti dei giocattoli con cui misurarsi "sperimentalmente" col problema, prima di partire col progatto dell'implementazione del codice, persino prima di partire col progetto dell'algoritmo, e persino prima di aver già penetrato la struttura matematica del problema.
+Ad esempio, all'ultimo appello di Algoritmi ho proposto il problema di riportare la torre di Hanoi in configurazione iniziale partendo da una configurazione qualsiasi impegnado il minor numero possibile di mosse.
+La soluzione esiste ed è unica, e, quando la si vede, trova una semplice descrizione ricorsiva. Tuttavia l'anello più prezioso della catena è per me il processo di esplorazione della struttura atematica del problema. Oddio che brutti parolono che ho usato, quando intendevo invece dire che lo studente torna bambino e gioca e sperimenta col giocattolo.
+Mi serviva quindi adattare un applet (va benissio partire da un applet già fatto, in questo caso ne ho già individuato uno molto adatto) in modo che consentisse un pò di maggiore liberta, tipo mosse vietate come mettere un disco grande sopra uno piccolo (questo in realtà non è poi così necessario, ma perchè no) ma soprattutto consentisse di spostare intere sottotorri.
+In diversi problemi, specie ora che apriamo l'universo TuringArena, sarebbe molto bello fornire degli applet kindergarden (mi piace chiamarli così) che possano promuovere di queste esplorazioni e megli far arrivare lo spirito ed i giusti atteggiamenti e ritmo dell'arte del problem-solving.  
+Possono inoltre servire degli applet che supportino delle nostre proposte in ambito KidsUniversity, TeachersLab, e recenti collaborazioni con scuole di primo e secondo grado.
+Nel tempo staccherò forse anche delle schede sepcifiche per singoli applet, o le staccheremo insieme. A quel punto l'etichetta della scheda sarà "applet kindergarden".
