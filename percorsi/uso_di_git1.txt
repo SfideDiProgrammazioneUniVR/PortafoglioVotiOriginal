@@ -6,5 +6,40 @@ a_cosa_serve: per poter mantenere un progetto entro un repository, usufruendo de
 restrizioni_su_chi_titolato_a_condurlo: chi non abbia alcuna competenza pregresse sull'uso di git, come rilevate da griglia di ingresso
 
 come_acquisire_le_competenze:
+
+1. DATACAMP (se sei un principiante ancora insicuro che gradisce una guida passo passo):
+
+Valida risorsa per apprendimento con sperimentazione immediata (in vari linguaggi ed ambiti: , git, shell, python, R, SQL, Machine Learning. (Al momento solo strumenti che ruotano attorno all'analisi dati.)):
+https://www.datacamp.com/
+
+2. Ancora passo passo ma visualizzato ed un attimo più ambizioso (guarda ai workflow ed all'idea generale più che alle singole operazioni):
+
+  https://learngitbranching.js.org/
+
+3. Molto completo su git:
+  https://www.katacoda.com/courses/git
+
+4. Offre un avvio a git assieme ad altri tutorial (non interattivi):
+  https://tutorialzine.com/2016/06/learn-git-in-30-minutes
+
+5. punta ad alcune delle risorse listate sopra insieme ad altre (pagina offerta da GitHub):
+  http://try.github.io/
+
+6. altro pagina che punta a risorse (ma di Altassian, bitbucket):
+  https://www.atlassian.com/git
+
+7. altra risorsa che mira ad offrire punatori:
+  https://gist.github.com/jaseemabid/1321592
+
+
+
 come_dimostrare_di_avere_acquisito_le_competenze:
+
+Potremmo fare un repository git e potremmo chiedere agli studenti di conarselo, aggiungere una cartella con la loro matricola, ed inserire dei dati ottenuti da lettura con git status e spostando la HEAD. Realizzare per bene questo percorso potrebbe essere un progetto da proporre.
+
+Alla risorsa:
+si offre un quiz, forse potremmo integrarci a questa risorsa.
+In alternativa, 
+
+
 come_richiedere_riconoscimento_percorso_nel_tuo_portafoglio_voti:

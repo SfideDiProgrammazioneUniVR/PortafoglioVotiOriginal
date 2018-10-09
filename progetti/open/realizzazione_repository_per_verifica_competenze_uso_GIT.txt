@@ -1,0 +1,20 @@
+scheda_progetto: realizzazione di un repository git dove sia possibile richiedere (e verificare in modo automatico) il self-assessment di competenza nell'uso di git.
+autore: Romeo Rizzi
+opened: 2018-10-09
+tipologia: first stone + sequels di affinamento
+punti_preventivati: almeno 3 punti, dipende dalla ricchezza e qualità del sistema concordato/realizzato.
+aree_di_interesse: spazioSfide, ramoArena, ramoBasecamp, gestioneProgetti, didattica, ateneo
+restrizioni_su_chi_titolato_a_condurlo: nessuna
+
+descrizione_progetto:
+Quando un progetto viene adottato e condotto, sarebbe bene venisse condotto utilizzando git.
+Per questo ai partecipanti a Sfide chiediamo innanzitutto di portarsi al passo e di acquisire i rudimenti e l'approccio corretto a questo strumento che consente di collaborare a progetti condivisi.
+In rete abbiamo individuato diversi tutorial e materiali da proporre.
+Ci serve tuttavia un sistema intelligente per rilevare e verificare in modo automatico il raggiungimento di alcuni obiettivi, in modo da poter transmutare l'investimento dei ragazzi anche in termini di punti per il loro portafoglioVoti.
+
+Any idea?
+
+Come accennato nelle scheda di percorso uso_di_git1.txt
+pensavo ad un repositori git che i ragazzi si dovevano clonare e dentro i quale dovevano compiere tutta una serie di azioni di esplorazione, i cui esiti dovevano riporre entro una cartella da loro creata (con nome la loro matricola).
+La verifica delle correttezza di questa cartella da aprte di uno script potrebbe quindi sbloccare i relativi punti conseguiti entro portafoglioVoti.
+
