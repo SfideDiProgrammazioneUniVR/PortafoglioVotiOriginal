@@ -1,0 +1,1 @@
+../open/sistema_rilevazione_automatica_presenze_incontri_gruppi_sfide.txt

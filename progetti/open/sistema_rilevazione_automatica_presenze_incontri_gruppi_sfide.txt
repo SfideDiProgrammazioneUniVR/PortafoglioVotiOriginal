@@ -2,6 +2,7 @@ scheda_progetto: sistema per la rilevazione automatica (smartphone) dei tempi di
 autore: Romeo Rizzi
 opened: 2018-10-08
 tipologia: do it once (hopefully!)
+assigned: 2018-10-23, Giovanni Bellorio, please, feel free to contact Giovanni.Bellorio@studenti.univr.it if you would like to help in the project or in parts of it (subprojects).
 punti_preventivati: progetto grosso da suddividere in sottoprogetti. Importante riutilizzare quanto possa già esistere. Almeno 2 punti per l'analisi di fattibilità e per la scomposizione funzionale in sottoprogetti.
 aree_di_interesse: spazioSfide, ramoArena, ramoBasecamp, ateneo
 restrizioni_su_chi_titolato_a_condurlo: nessuna
